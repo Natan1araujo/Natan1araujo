@@ -1,16 +1,19 @@
-## Hi there 👋
+# Olá, eu sou Natan Araujo! 👋
 
-<!--
-**Natan1araujo/Natan1araujo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mim
+- 👨‍🎓 Formando em engenharia civil.
+- 📚 Ciência de dados.
+- 🌍 Apaixonado por tecnologia e open source.
+- 📚 Sempre aprendendo algo novo.
 
-Here are some ideas to get you started:
+## Habilidades
+- **Linguagens:** Python, SQL, R
+- **Ferramentas:** Git, Scikit-learn, Looker Studio, PowerBI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projetos Destacados
+- 
+- 
+
+## Contato
+- 📧 Email: eng.civil.natan@outlook.com
+- 💼 LinkedIn:[link](https://www.linkedin.com/in/natan-ara%C3%BAjo-68ba512a1/)
